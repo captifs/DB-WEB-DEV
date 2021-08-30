@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../scss/styles.scss"
+	],
+	"sourcesContent": [
+		".color-pink {\r\n    background-color: pink;\r\n    border-color: rgb(168, 43, 137);\r\n}\r\n\r\n#imp-div {\r\n    background-color: yellow;\r\n}\r\n\r\n#imp-div:hover {\r\n    background-color: pink;\r\n}"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,WAAW,CAAC;EACR,gBAAgB,EAAE,IAAI;EACtB,YAAY,EAAE,OAAiB;CAClC;;;AAED,AAAA,QAAQ,CAAC;EACL,gBAAgB,EAAE,MAAM;CAC3B;;;AAED,AAAA,QAAQ,AAAA,MAAM,CAAC;EACX,gBAAgB,EAAE,IAAI;CACzB"
+}

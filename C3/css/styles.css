@@ -1,0 +1,17 @@
+/* line 1, ../../../../../Training projects/DBTech/HTML + JS/C3/scss/styles.scss */
+.color-pink {
+  background-color: pink;
+  border-color: #a82b89;
+}
+
+/* line 6, ../../../../../Training projects/DBTech/HTML + JS/C3/scss/styles.scss */
+#imp-div {
+  background-color: yellow;
+}
+
+/* line 10, ../../../../../Training projects/DBTech/HTML + JS/C3/scss/styles.scss */
+#imp-div:hover {
+  background-color: pink;
+}
+
+/*# sourceMappingURL=styles.css.map */
