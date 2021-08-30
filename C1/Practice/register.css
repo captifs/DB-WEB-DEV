@@ -1,0 +1,21 @@
+.form-label {
+    width: 80px;
+    display: inline-block;
+}
+
+.form-div {
+    margin: 10px 0px;
+}
+
+.container-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+#logo {
+    width: 25%;
+}
